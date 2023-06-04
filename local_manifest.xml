@@ -2,8 +2,12 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/taoyao" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
- <project path="device/taoyao/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/taoyao" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
- 
+<project path="device/realme/lunaa" name="pjgowtham/android_device_realme_lunaa.git" remote="github" revision="lineage-20" />
+<project path="device/oneplus/sm8350-common" name="pjgowtham/android_device_oneplus_sm8350-common.git" remote="github" revision="lineage-20" />
+<project path="kernel/oneplus/sm8350" name="pjgowtham/android_kernel_oneplus_sm8350.git" remote="github" revision="lineage-20" />
+<project path="hardware/oplus" name="pjgowtham/android_hardware_oplus.git" remote="github" revision="lineage-20" />
+<project path="vendor/realme/lunaa" name="pjgowtham/proprietary_vendor_realme_lunaa.git" remote="github" revision="lineage-20" />
+<project path="vendor/oneplus/sm8350-common" name="pjgowtham/proprietary_vendor_oneplus_sm8350-common.git" remote="github" revision="lineage-20" />
+<project path="vendor/realme/camera" name="CyberDroid23/proprietary_vendor_realme_camera.git" remote="gitlab" revision="main" />
+
 </manifest>
